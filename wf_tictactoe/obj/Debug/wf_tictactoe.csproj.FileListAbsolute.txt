@@ -1,0 +1,10 @@
+c:\users\dunkan\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csprojResolveAssemblyReference.cache
+c:\users\dunkan\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.Form1.resources
+c:\users\dunkan\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.Properties.Resources.resources
+c:\users\dunkan\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csproj.GenerateResource.Cache
+c:\users\dunkan\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\wf_tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\DUNKAN\source\repos\wf_tictactoe\wf_tictactoe\bin\Debug\Крестики и Нолики.exe.config
+C:\Users\DUNKAN\source\repos\wf_tictactoe\wf_tictactoe\bin\Debug\Крестики и Нолики.exe
+C:\Users\DUNKAN\source\repos\wf_tictactoe\wf_tictactoe\bin\Debug\Крестики и Нолики.pdb
+C:\Users\DUNKAN\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\Крестики и Нолики.exe
+C:\Users\DUNKAN\source\repos\wf_tictactoe\wf_tictactoe\obj\Debug\Крестики и Нолики.pdb
